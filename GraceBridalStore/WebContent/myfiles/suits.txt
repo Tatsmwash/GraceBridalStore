@@ -1,0 +1,5 @@
+P001,Suits,6088,suit.jpg
+P002,Suits,5288,suit1.jpg
+P003,Suits,5288,suit2.jpg
+P004,Suits,4488,suit3.jpg
+P005,Suits,3288,suit4.jpg

@@ -1,0 +1,20 @@
+P001,Shoes ,6088,shoes.jpg
+P002,Shoes,5288,shoes1.jpg
+P003,Shoes,5288,shoes2.jpg
+P004,Shoes,4488,shoes3.jpg
+P005,Shoes,3288,shoes4.jpg
+P006,Shoes,3288,shoes5.jpg
+P007,Shoes,3288,shoes6.jpg
+P008,Shoes,3288,shoes7.jpg
+P009,Shoes,3288,shoes8.jpg
+P0010,Shoes,3288,shoes9.jpg
+P0011,Shoes ,6088,shoes10.jpg
+P0012,Shoes,5288,shoes11.jpg
+P0013,Shoes,5288,shoes12.jpg
+P0014,Shoes,4488,shoes13.jpg
+P0015,Shoes,3288,shoes14.jpg
+P0016,Shoes,3288,shoes15.jpg
+P0017,Shoes,3288,shoes16.jpg
+P0018,Shoes,3288,shoes17.jpg
+P0019,Shoes,3288,shoes18.jpg
+P0020,Shoes,3288,shoes19.jpg

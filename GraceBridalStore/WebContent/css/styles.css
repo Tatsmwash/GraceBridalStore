@@ -1,0 +1,173 @@
+#page{
+	position:relative;
+
+	top:1px;
+
+	left:50px;
+
+	right:50px;
+	
+	margin-left:50px;
+
+	margin-right:50px;
+
+	width:804px;
+
+	height:1070px;
+	
+	border-style:  solid ;
+	
+	border-width:20px;
+	
+	border-color: pink;
+	
+}
+
+#header{
+
+	position:absolute;
+
+	top:0px;
+
+	right:72px;
+
+	width:730px;
+
+	height:20px;
+	
+	border-color: pink;
+	
+
+	text-decoration:inherit;
+	
+}
+
+#menu{
+
+	position:absolute;
+
+	top: 300px;
+
+	width: 500px;
+
+	height: 100px;
+
+	border-color:pink;
+	
+	border-width:8px;
+
+	background-color: light blue;
+
+	text-decoration:inherit;
+
+	text-align:center;
+	
+}
+
+#content {
+
+	position:absolute;
+
+	top:184px;
+
+	margin-left:0px;
+	
+	padding-right:80px;
+	
+	width:684px;
+
+	height:800px;
+
+	border-style:solid;
+
+	border-color:pink;
+	
+	border-width:20px;
+	
+	background-color: pink;
+ }
+ 
+h1 {
+
+	color:blue;
+
+	text-decoration:underline;
+
+	text-align:center;
+	
+	font-size:25pt;
+}
+
+
+h2 { color:white;
+
+	text-decoration:underline;
+}
+
+	
+
+h3{ color:pink;
+
+	text-decoration:inherit;
+	
+	text-align:center;
+	
+}	
+
+#footer {
+
+	position: absolute;
+
+	top: 1000px;
+	
+	center:3px;
+
+	width: 780px;
+
+	height: 30px;
+
+	border: solid;
+	
+	border-color: pink;
+	
+	border-width: 20px;
+
+	background-color: pink;
+}
+	
+p { 	
+
+	color:white;
+
+	text-decoration:inherit;
+
+	text-align:bottom;
+	
+}
+
+table tats{
+	position:absolute;
+	
+	margin-left:1px;
+	width: 500px;
+
+	height: 200px;
+	
+}
+tr{
+	width: 670px;
+
+	height: 300px;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
